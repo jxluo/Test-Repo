@@ -1,0 +1,25 @@
+jp.blockcn.net	Tokyo,Japan	pptp, l2tp ,openvpn	日本东京机房
+v1.blockcn.net	Dallas,TX	pptp, l2tp	Linode dallas机房，目前国内服务器多搬离此机房，所以访问速度不错
+v2.blockcn.net	Fremont,CA	pptp, l2tp	he.net 中国电信直连，无论是网通还是电信都有很好的速度
+v3.blockcn.net	London,UK	pptp, l2tp	英国伦敦机房，适合欧洲用户！
+v5.blockcn.net	Fremont,CA	pptp, l2tp	he.net 中国电信直连，无论是网通还是电信都有很好的速度
+jp2.blockcn.net	Tokyo,Japan	pptp, l2tp	日本VPN，东京机房
+v10.blockcn.net	Atlanta,GA	pptp, l2tp	Atlanta,GA,北方用户和联通用户比较适合
+jp3.blockcn.net	Tokyo,Japan	pptp, l2tp	日本东京，速度极快
+v7.blockcn.net	Los Angeles, CA	pptp, l2tp	1000M独享服务器，亚洲IP优化，vpn不要单独看延迟，还要看掉包率
+jp4.blockcn.net	Tokyo,Japan	pptp, l2tp	日本Linode，日本线路
+v4.blockcn.net	Los Angeles ,USA	pptp, l2tp	联通连接速度不错
+v6.blockcn.net	dallas TX	pptp, l2tp	dallas TX
+v9.blockcn.net	Los Angeles, CA	pptp, l2tp	洛杉矶线路
+v8.blockcn.net	Los Angeles, CA	pptp, l2tp	peer1
+jp5.blockcn.net	tokyo,Japan	pptp, l2tp	日本东京
+v11.blockcn.net	Los Angeles ,USA	pptp, l2tp	Los Angeles ,USA
+ipsec01.blockcn.net	Tokyo,Japan	cisco ipsec	
+ipsec03.blockcn.net	Fremont,CA	cisco ipsec	fremont CA 仅支持cisco ipsec
+ipsec02.blockcn.net	Los Angeles,CA USA	cisco ipsec	cisco ipsec
+ipsec04.blockcn.net	Los Angeles,CA USA	cisco ipsec	peer1机房，中国电信直连，电信速度可以达到满速
+ipsec05.blockcn.net	HongKong ,China	cisco ipsec	HK ,仅仅支持cisco ipsec
+ipsec07.blockcn.net	Los Angeles ,USA	cisco ipsec	PR洛杉矶机房
+ipsec08.blockcn.net	Los Angeles, CA	 cisco ipsec for ios	洛杉矶，联通电信都有不错的速度
+ipsec06.blockcn.net	Los Angeles, CA	 cisco ipsec	美国洛杉矶
+
