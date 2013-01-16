@@ -132,7 +132,6 @@ def printResult(result):
 
 def main():
   addressList = [("www.baidu.com", ""),
-                 ("www.google.com", ""),
                  ("www.bing.com", ""),
                  ("www.163.com", "")]
 
