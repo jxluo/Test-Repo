@@ -133,6 +133,7 @@ def printResult(result):
 def main():
   addressList = [("www.baidu.com", ""),
                  ("www.bing.com", ""),
+                 ("www.google.com", ""),
                  ("www.163.com", "")]
 
   addressFile = open("address")
